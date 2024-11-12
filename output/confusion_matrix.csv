@@ -1,0 +1,11 @@
+,amok,arp,authentication_request,beacon,cafe_latte,deauthentication,evil_twin,fragmentation,normal,probe_response
+amok,5298,0,3,0,0,4,1,0,833,0
+arp,0,12799,0,0,0,0,0,0,5,0
+authentication_request,0,0,700,0,0,1,0,0,2,0
+beacon,0,0,0,286,0,0,0,0,86,0
+cafe_latte,0,0,0,0,9062,8,0,0,194,0
+deauthentication,0,0,0,0,0,1974,0,0,112,0
+evil_twin,0,0,0,0,0,7,44,0,530,0
+fragmentation,0,2,0,0,0,0,0,160,1,0
+normal,484,26,37,50,39,247,22,1,325377,6
+probe_response,0,0,0,0,0,0,0,0,2,316
